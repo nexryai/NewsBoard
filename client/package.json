@@ -34,7 +34,7 @@
 		"bits-ui": "^0.21.13",
 		"clsx": "^2.1.1",
 		"lucide-svelte": "^0.424.0",
-		"mode-watcher": "^0.4.0",
+		"mode-watcher": "^0.4.1",
 		"nprogress": "^0.2.0",
 		"svelte-infinite-scroll": "^2.0.1",
 		"svelte-sonner": "^0.3.27",

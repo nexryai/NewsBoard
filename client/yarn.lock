@@ -1428,10 +1428,10 @@ mkdirp@^0.5.1:
   dependencies:
     minimist "^1.2.6"
 
-mode-watcher@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/mode-watcher/-/mode-watcher-0.4.0.tgz#87a406e11edefeb78072538dad1bcbe8db28df3e"
-  integrity sha512-zuHYgY7Cq4NAB1JHj0NpxTKfx6RMH3A2yAoDfjF1UTaIbgWzRyCQRcK/uE9EuVt2PqAGZZbqxRC0h9eB1hfyJQ==
+mode-watcher@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/mode-watcher/-/mode-watcher-0.4.1.tgz#05022fbc5f8d21bca35f7bcd116f39c8c6f3864b"
+  integrity sha512-bNC+1NXmwEFZtziCdZSgP7HFQTpqJPcQn9GwwJQGSf6SBF3neEPYV1uRwkYuAQwbsvsXIYtzaqgedDzJ7D1mhg==
 
 mri@^1.1.0:
   version "1.2.0"
