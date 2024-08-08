@@ -33,7 +33,7 @@
         "@fastify/static": "^7.0.4",
         "@prisma/client": "^5.18.0",
         "fastify": "^4.28.1",
-        "globals": "^15.8.0",
+        "globals": "^15.9.0",
         "prisma": "^5.18.0",
         "reflect-metadata": "^0.2.2",
         "sanitize-html": "^2.13.0"
