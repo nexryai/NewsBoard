@@ -17,7 +17,7 @@
         "ci:lint": "eslint && cd client && eslint"
     },
     "devDependencies": {
-        "@types/node": "^22.4.1",
+        "@types/node": "^22.7.7",
         "@types/sanitize-html": "^2.13.0",
         "@typescript-eslint/eslint-plugin": "^7.18.0",
         "@typescript-eslint/parser": "^7.17.0",
